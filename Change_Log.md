@@ -2,8 +2,8 @@
 Version 1.0
 -----------
   
-  # Calculator used by the terminal that has:
-  addition;
+  Calculator used by the terminal that has:
+  / addition;
   subtraction;
   multiplication;
   division;
