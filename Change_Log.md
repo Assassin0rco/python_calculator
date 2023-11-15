@@ -1,5 +1,5 @@
 -----------
-Version 1.0 calculator_v1.0.py
+Version 1.0
 -----------
   
   Calculator used by the terminal that has:
