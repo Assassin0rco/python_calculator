@@ -3,7 +3,7 @@ Version 1.0
 -----------
   
   Calculator used by the terminal that has:
-  / addition;
+  addition;
   subtraction;
   multiplication;
   division;
